@@ -1,3 +1,6 @@
+import Container from 'react-bootstrap/Container';
+
+
 export default function Home() {
     return (
         <div className="homepage">
@@ -11,3 +14,6 @@ export default function Home() {
     )
 
 };
+
+
+
